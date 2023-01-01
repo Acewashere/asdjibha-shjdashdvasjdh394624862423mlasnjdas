@@ -586,6 +586,7 @@ end)
 return Aiming
 
 -- // If you want the examples, look at the docs.
+print("passed")
     else
         game:GetService("Players").LocalPlayer:Kick('Either Blacklisted Or Not whitelisted.')
     end
