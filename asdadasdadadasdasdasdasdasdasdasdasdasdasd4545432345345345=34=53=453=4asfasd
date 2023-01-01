@@ -1,5 +1,5 @@
 game.Players.PlayersAdded:Connect(function(Padd)
-    if Padd:IsInGroup(id of group here) then
+    if Padd:IsInGroup(16667600) then
         if getgenv().Aiming then return getgenv().Aiming end
 
 -- // Services
